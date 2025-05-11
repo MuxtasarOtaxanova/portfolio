@@ -14,10 +14,11 @@ const Footer = () => {
         <div className="footer-top-left">
           <h2>WEB_DEVELOPER</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore
-            nihil nemo eaque totam eligendi optio aut, commodi corporis
-            asperiores! Commodi, ipsam atque. Eius odit iusto aperiam et. Error,
-            eum possimus!
+            My name is Muxtasar Otaxanova, a passionate and motivated web
+            developer with a solid foundation in front-end technologies
+            including HTML, CSS, JavaScript, and React. I have successfully
+            completed training in these technologies and am currently expanding
+            my skills by learning Node.js to become a full-stack developer.
           </p>
         </div>
         <div className="footer-top-right">
