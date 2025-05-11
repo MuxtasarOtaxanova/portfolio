@@ -14,16 +14,23 @@ const About = () => {
         <div className="about-right">
           <div className="about-para">
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti,
-              optio quae totam atque maxime laborum eum odit beatae sed rem ex
-              saepe? Consectetur enim pariatur commodi, quidem maiores dolor
-              cum!
+              My name is Muxtasar Otaxanova, a passionate and motivated web
+              developer with a solid foundation in front-end technologies
+              including HTML, CSS, JavaScript, and React. I have successfully
+              completed training in these technologies and am currently
+              expanding my skills by learning Node.js to become a full-stack
+              developer.
             </p>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit
-              corporis commodi dolores debitis. Blanditiis, in qui nisi
-              assumenda aliquam saepe.
-            </p>{" "}
+              I am dedicated to continuous learning and growth, and I am
+              currently preparing to begin teaching web development at ALgoritm
+              Education Center in the near future. Sharing knowledge and helping
+              others grow in the tech field is something I deeply care about.
+              Outside of coding, I enjoy creating videos and reading books,
+              which help me stay creative and inspired. I’m excited to take on
+              new challenges and contribute to meaningful projects that make a
+              positive impact.
+            </p>
           </div>
         </div>
       </div>{" "}
